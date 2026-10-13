@@ -1,1 +1,7 @@
 # WEEK7COMPLETE
+
+ALL OF 7A UNDER "VSWEEK&UPDATED-main" folder
+
+ALL OF 7B UNDER "StoryGameApp" folder
+
+RECIEPT OF STORY GAME IS "Screenshot 2026-10-08......"
